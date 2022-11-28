@@ -45,28 +45,6 @@
 	left:25px;
 	top:536px;
 }
-.name_back {
-	background-color:rgba(217, 217, 217, 0.30000001192092896);
-	width:477px;
-	height:454px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-top-left-radius:50px;
-	border-top-right-radius:50px;
-	border-bottom-left-radius:50px;
-	border-bottom-right-radius:50px;
-}
-.name_text {
-	width:453px;
-	height:451px;
-	position:absolute;
-	left:12px;
-	top:12px;
-	background-image:url(../images/name3.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
 .heroes {
 	width:331px;
 	height:884px;
@@ -74,155 +52,35 @@
 	left:1052px;
 	top:81px;
 }
-.3_30 {
-	border:10px solid rgba(80, 83, 118, 1);
-}
-.e3_30 { 
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:744px;
-	border-radius:50px;
-}
-.2_11 { 
-	overflow:hidden;
-}
-.e2_11 { 
-	background-color:rgba(217, 217, 217, 1);
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-radius:50px;
-}
-.hagrid {
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(../images/hagrid.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-	border:10px solid rgba(80, 83, 118, 1);
-   	border-radius:50px;
-}
-.3_32 { 
-	border:10px solid rgba(80, 83, 118, 1);
-}
-.e3_32 { 
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:81px;
-	top:496px;
-	border-radius:50px;
-}
-.2_10 { 
-	overflow:hidden;
-}
-.e2_10 { 
-	background-color:rgba(217, 217, 217, 1);
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-radius:50px;
-}
-.hermione {
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(../images/hermione.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-	border:10px solid rgba(80, 83, 118, 1);
-	border-radius:50px;
-}
-.5_36 { 
-	border:10px solid rgba(80, 83, 118, 1);
-}
-.e5_36 { 
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:81px;
-	top:248px;
-	border-radius:50px;
-}
-.2_9 { 
-	overflow:hidden;
-}
-.e2_9 { 
-	background-color:rgba(217, 217, 217, 1);
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-radius:50px;
-}
-.ron {
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(../images/ron.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-	border:10px solid rgba(80, 83, 118, 1);
-	border-radius:50px;
-}
-.2_16 { 
-	border:10px solid rgba(80, 83, 118, 1);
-}
-.e2_16 { 
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-radius:50px;
-}
-.2_8 { 
-	overflow:hidden;
-}
-.e2_8 { 
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-radius:50px;
-}
-.2_14 { 
-	border:10px solid rgba(71, 71, 97, 1);
-}
-.harry {
-	width:250px;
-	height:140px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(../images/harry.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-	border:10px solid rgba(80, 83, 118, 1);
-	border-radius:50px;
-}
 .image_1 {
-    overflow: hidden
 	position: absolute;
-	width: 250px;
-	height: 150px;
+    overflow: hidden
+	width: 270px;
+	height: 160px;
 	left: 0px;
 	top: 0px;
-	border:10px solid rgba(80, 83, 118, 1);
-	border-radius: 50px;
+}
+.image_2 {
+	position: absolute;
+    overflow: hidden
+	width: 270px;
+	height: 160px;
+	left:81px;
+	top:248px;
+}
+.image_3 {
+	position: absolute;
+    overflow: hidden
+	width: 270px;
+	height: 160px;
+	left:81px;
+	top:496px;
+}
+.image_4 {
+	position: absolute;
+    overflow: hidden
+	width: 270px;
+	height: 160px;
+	left:0px;
+	top:744px;
 }
