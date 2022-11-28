@@ -1,12 +1,19 @@
+body {
+    right: 50%;
+    top: 0px;
+    transform: translate(50%,0%);
+    position: absolute;
+}
 
 .2_2 {
 	overflow:hidden;
 }
 .e2_2 {
+
 	background-color:rgba(255, 255, 255, 1);
 	width:1440px;
 	height:1024px;
-	position:absolute;
+
 }
 .hogwarts {
 	width:1440px;
